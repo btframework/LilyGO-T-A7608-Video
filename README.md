@@ -1,2 +1,2 @@
-# LilyGO-T-A7608-Video
- LilyGO Demos
+# LilyGO T-A7608
+ This repository contains documents and samples for LilyGO T-A7608 board
